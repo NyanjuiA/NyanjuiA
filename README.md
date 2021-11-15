@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NyanjuiA
 - 👀 I’m interested in ... 1. Web using HTML, CSS & JS 2. Mobile using Flutter/dart and Android/Java 3. Databases using SQL server, MySQL/MariaDB & PostGres
-- 🌱 I’m currently learning ... 3D animation using ZBrush, Google Firebase
+- 🌱 I’m currently learning ... React JS & Google firebase
 - 💞️ I’m looking to collaborate on ... Web and mobile application design/development.
 - 📫 How to reach me ...
 
